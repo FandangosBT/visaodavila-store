@@ -21,19 +21,19 @@ export const metadata: Metadata = {
     default: "Visão da Vila Store — Mockup",
     template: "%s | Visão da Vila",
   },
-  description: "Mockup de e-commerce inspirado em Xandão Outlet",
+  description: "Mockup de e-commerce da Visão da Vila",
   metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || "http://localhost:3000"),
   openGraph: {
     type: "website",
     siteName: "Visão da Vila Store",
     title: "Visão da Vila Store — Mockup",
-    description: "Mockup de e-commerce inspirado em Xandão Outlet",
+    description: "Mockup de e-commerce da Visão da Vila",
     url: "/",
   },
   twitter: {
     card: "summary_large_image",
     title: "Visão da Vila Store — Mockup",
-    description: "Mockup de e-commerce inspirado em Xandão Outlet",
+    description: "Mockup de e-commerce da Visão da Vila",
   },
 };
 
