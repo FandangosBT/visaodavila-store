@@ -1,0 +1,22 @@
+[
+  {
+    "id": "p1",
+    "name": "Camiseta Básica Masculina",
+    "price": 129.9,
+    "salePrice": 99.9,
+    "images": ["/placeholder/tee-1.jpg"],
+    "colors": ["preto", "branco"],
+    "sizes": ["P", "M", "G", "GG"],
+    "rating": 4.6
+  },
+  {
+    "id": "p2",
+    "name": "Calça Jeans Slim",
+    "price": 219.9,
+    "salePrice": 179.9,
+    "images": ["/placeholder/jeans-1.jpg"],
+    "colors": ["azul"],
+    "sizes": ["38", "40", "42", "44"],
+    "rating": 4.4
+  }
+]
